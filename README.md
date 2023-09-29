@@ -1,5 +1,5 @@
 # Snake-game
-Simple snake game 🐍     
+Modified snake game 🐍     
 # My first semester mid-term project 
 Modified the simple snake game to enhance user experience.     
 ## Modifications
